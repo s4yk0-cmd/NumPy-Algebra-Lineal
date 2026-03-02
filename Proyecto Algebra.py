@@ -1,3 +1,7 @@
+# Edwin Mateo Camacho Tierradentro
+# Universidad Distrital
+# Febrero 2026
+
 import numpy as np
 
 def solicitar_ventas(producto):
@@ -51,4 +55,5 @@ print("\n--- RESULTADOS ---")
 print("Total por producto:", total_por_producto)
 print("Total por mes:", total_por_mes)
 print("Promedio general:", promedio_general)
+
 print("Producto con mayores ventas:", producto_mayor)
